@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Open Data in California
-nav_title: Part I. Open Data in California
+title: Pay Equity and California Law
+nav_title: Part I. Introduction
 nav_level: 1
 ---
 
-### Open Data Definition
+### History
 
-Open data requires more than just transparency. The general consensus is that—at minimum—it must be published without constraints to further public use. This means that open data is:
+djshvfkjasdhfkjafnerbkjnviusdhvSKJb:
 
 *	Machine readable,
 *	Formatted according to widely-used, open standards,
