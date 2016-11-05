@@ -11,9 +11,9 @@ nav_level: 1
   1.	National. As it relates to SB 358. What other states are doing? 
 2.	National in focus. Factors contributing to the gender pay gap. 
   2.	Here maybe briefly go over federal law before introducing California.
-  c.	California-specific information about the gender pay gap.
- *	i.	Then: Early Senate Office of Research Report to cite past gender pay gap.
- *	ii.	Present: California-specific numbers about pay gap.
+3.	California-specific information about the gender pay gap.
+  3.	Then: Early Senate Office of Research Report to cite past gender pay gap.
+  3.	Present: California-specific numbers about pay gap.
 *	d.	Connect past California actions/law to present California actions/law. 
   *	i.	1985 report from the Comparable Worth Task Force. California Equal Pay Act insufficient to address pay gap then.
     *	1.	1985 Task Force set to evaluate the problem and make recommendations.
