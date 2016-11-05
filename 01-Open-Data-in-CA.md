@@ -8,7 +8,7 @@ nav_level: 1
 ### History of State and Federal Pay Equity Laws
 
 1.	Overview the problem–the persistence of the gender pay gap.
-  i.	National. As it relates to SB 358. What other states are doing? 
+  1.	National. As it relates to SB 358. What other states are doing? 
     b.	National in focus. Factors contributing to the gender pay gap. 
   i.	Here maybe briefly go over federal law before introducing California.
 *	c.	California-specific information about the gender pay gap.
