@@ -14,14 +14,14 @@ nav_level: 1
 3.	California-specific information about the gender pay gap.
   3.	Then: Early Senate Office of Research Report to cite past gender pay gap.
   3.	Present: California-specific numbers about pay gap.
-*	d.	Connect past California actions/law to present California actions/law. 
-  *	i.	1985 report from the Comparable Worth Task Force. California Equal Pay Act insufficient to address pay gap then.
-    *	1.	1985 Task Force set to evaluate the problem and make recommendations.
-  *	ii.	SB 358 substantially broadened California’s gender pay differential law. 
-    *	1.	Differences between previous Task Force, law and current Task Force and SB 358.
-*	e.	Response: 
-  *	i.	SB 358. The strongest equal pay law in the country. 
-  *	ii.	Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
+4. Connect past California actions/law to present California actions/law. 
+  4.	1985 report from the Comparable Worth Task Force. California Equal Pay Act insufficient to address pay gap then.
+    4. 1985 Task Force set to evaluate the problem and make recommendations.
+  4.	SB 358 substantially broadened California’s gender pay differential law. 
+    4.	Differences between previous Task Force, law and current Task Force and SB 358.
+5.	Response: 
+  5.	SB 358. The strongest equal pay law in the country. 
+  5.	Task Force: innovative approach. The role of proactive implementation and the importance of supporting compliance.
 
 <!-- Pagination -->
 <div class="pagination">
